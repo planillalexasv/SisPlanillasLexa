@@ -16,7 +16,7 @@ $this->title = 'Planilla LEXA';
               <div class="col-md-10 col-md-offset-1">
                   <div class="card card-calendar">
                       <div class="card-content" class="ps-child">
-                          <div id="calendar"></div>
+                          <div id=""></div>
                       </div>
                   </div>
               </div>
